@@ -19,6 +19,6 @@
 
 
 
-# Dataset_Visualisation
+# Support Vector Machine
 In this project I have taken the sentiment140 dataset. It contains 1,600,000 tweets extracted using the twitter api. The tweets have been labeled (0 = negative, 4 = positive). 
 Here I have shown the process of tokenization, stemming, vectorization and how SVM works on the dataset. Three kernels of SVM is used here. They are Linear, Polynomial and Gaussian Kernel. The accuracy, precision, recall and f1-score is shown here for all three kernels. Different kernels are giving different results. Because the way of distrbuting data is differet for each of them. 
